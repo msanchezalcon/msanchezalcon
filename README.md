@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am Míriam and I am a Full Stack Developer and CUX Designer.
+####I have a background in Linguistics and Computational Linguistics, and I combine my expertise in both language and tech to elevate user experiences. I am passionate about human-computer interaction and am dedicated to work on building a more affective, human-centered technology.
 
 <!--
 **msanchezalcon/msanchezalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
