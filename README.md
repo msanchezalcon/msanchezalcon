@@ -8,7 +8,7 @@ I have experience in developing full-stack single page applications using React.
 Especially women and girls interested in STEM careers.
 
 ### 📫 I am always up for discussing any new opportunities or tech-related issues that can help improve our beloved tech community. 
-Don't hesitate to reach me via e-mail: msanchezalcon.msa@gmail.com.
+Don't hesitate to reach me via e-mail: msanchezalcon.msa@gmail.com or my LinkedIn account.
 
 <!--
 **msanchezalcon/msanchezalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
