@@ -1,17 +1,17 @@
-### Hi 👋, I am Míriam and I am a Full Stack Developer and CUX Designer.
-####I have a background in Linguistics and Computational Linguistics, and I combine my expertise in both language and tech to elevate user experiences. I am passionate about human-computer interaction and am dedicated to work on building a more affective, human-centered technology.
+### 👋 Hi, I am Míriam and I am a Full Stack Developer and CUX Designer.
+I have a background in Linguistics and Computational Linguistics, and I combine my expertise in both language and tech to elevate user experiences. I am passionate about human-computer interaction and am dedicated to work on building a more affective, human-centered technology.
 
 <!--
 **msanchezalcon/msanchezalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I’m looking for job opportunities within Web Development and Conversation Design.
+I have experience in developing full-stack single page applications using React. I have also worked with Volvo Truck Technologies in developing an implementation of the driver's handbook in Alexa. It was a success and everyone loved the result 😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### My goal for 2020 is to collaborate on projects that help promote the presence and inclusion of minorities in tech, especially women and girls interested in STEM careers.
+
+### 📫 I am always up for discussing any new opportunities or tech-related issues that can help improve our beloved tech community. 
+Don't hesitate to reach me via e-mail: msanchezalcon.msa@gmail.com.
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
