@@ -4,9 +4,6 @@ I have a background in Linguistics and Computational Linguistics, and I combine 
 ### 💼 I’m looking for job opportunities within Web Development and Conversation Design
 I have experience in developing full-stack single page applications using React. I have also worked with Volvo Truck Technologies in developing an implementation of the driver's handbook in Alexa. It was a success and everyone loved the result. 😄
 
-### ⚡ My goal for 2020 is to collaborate on projects that help promote the presence and inclusion of minorities in tech
-Especially women and girls interested in STEM careers.
-
 ### 📫 I am always up for discussing any new opportunities or tech-related issues that can help improve our beloved tech community
 Don't hesitate to reach me via e-mail: msanchezalcon.msa@gmail.com or my LinkedIn account.
 
