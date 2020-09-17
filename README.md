@@ -1,4 +1,4 @@
-### 👋 Hi, I am Míriam and I am a Full Stack Developer & CUX Designer based in Oslo 🇳🇴
+### 👋 Hi, I am Míriam and I am a Full Stack Developer & VUI Designer based in Oslo 🇳🇴
 I have a background in Linguistics and Computational Linguistics, and I combine my expertise in both language and tech to elevate user experiences. I am passionate about human-computer interaction and am dedicated to work on building a more affective, human-centered technology.
 
 ### 💼 I’m looking for job opportunities within Web Development and Conversation Design
