@@ -1,13 +1,5 @@
-### 👋 Hi, I am Míriam and I am a Full Stack Developer based in Oslo 🇳🇴
-I have a background in Linguistics and Computational Linguistics, and I combine my passion in both language and tech to elevate user experiences. I am passionate about human-computer interaction and am dedicated to work on building a more affective, human-centered technology.
+👋 Hi, I’m Míriam, a Full Stack Developer based in Oslo 🇳🇴 with a passion for bridging the gap between technology and user experience. My background in Linguistics and Computational Linguistics fuels my commitment to enhancing human-computer interaction through innovative solutions.
 
-### 📫 Don't hesitate to reach me via LinkedIn
-I am always up for discussing any new opportunities or tech-related issues that can help improve our beloved tech community.
+🌟 I am currently exploring opportunities in Solutions Engineering, where I can leverage my technical expertise and strong communication skills to drive impactful results. I am dedicated to building human-centered technology that resonates with users and empowers developers.
 
-<!--
-**msanchezalcon/msanchezalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to reach out via LinkedIn! I'm always eager to discuss new opportunities, tech-related challenges, and ways we can collectively enhance our tech community.
