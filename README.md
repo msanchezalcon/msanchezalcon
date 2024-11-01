@@ -1,4 +1,5 @@
 👋 Hi there! I’m **Míriam**, a **Full Stack Developer** from sunny **Spain** 🇪🇸, now exploring the cool vibes of **Norway** 🇳🇴. 
+
 🌉 I am dedicated to bridging the gap between technology and user experience.
 
 ```python
