@@ -1,5 +1,5 @@
 👋 Hi there! I’m **Míriam**, a **Full Stack Developer** from sunny **Spain** 🇪🇸, now exploring the cool vibes of **Norway** 🇳🇴. 
-My journey into tech was fueled by a genuine passion for problem-solving and a desire to create positive change
+My journey into tech was fueled by a genuine passion for problem-solving and a desire to create positive change.
 
 🌉 I am dedicated to bridging the gap between technology and user experience. 
 Embracing tech is not just about mastering the latest tools; it’s about understanding the impact we can have and using our skills to drive meaningful change.
